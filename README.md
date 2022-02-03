@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leszek W. Król</h1>
 <h3 align="left">For almost 2 decades, Leszek has been passionate about new technologies. Actively operating in the startup ecosystem, he has been both an entrepreneur and mentor to companies across the EMEA region, designing strategies as well as developing new apps and services.</h3>
 
-- 🔭 I’m currently working on [University of Games](https://www.universityofgames.net)
+- 🔭 I’m currently working on [University of Games](https://www.universityofgames.net) & [HanzeaTech](https://www.hanzea.tech)
 
 - 📝 I regularly write articles on [https://www.leszekkrol.com](https://www.leszekkrol.com)
 
